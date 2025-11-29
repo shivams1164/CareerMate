@@ -9,6 +9,11 @@ export const faqs = [
     answer:
       "CareerMate learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
   },
+    {
+    question: "How does Caasdfsadfsared content?",
+    answer:
+      "CareerMate learns about yousadfasfdasdf skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+  },
   {
     question: "How accurate and up-to-date are CareerMate's industry insights?",
     answer:
